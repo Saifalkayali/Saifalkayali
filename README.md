@@ -1,80 +1,33 @@
-# 👋🏼 Saif Al‑Kayali | Senior DevOps Engineer
+# Saif Al-Kayali
 
-![Header](https://github.com/Saifalkayali/Saifalkayali/blob/main/assets/about-me.png) 
+**Senior DevOps Engineer | GCP, secure delivery, and platform reliability**
 
+I build cloud infrastructure and delivery platforms that help engineering teams ship securely and operate reliably. My strongest cloud platform is Google Cloud, with earlier AWS infrastructure and SRE experience and cross-cloud work involving Azure and SaaS integrations.
 
----
+Alongside hands-on engineering, I provide technical leadership through architecture decisions, delivery standards, and developer enablement.
 
-## 💡 Leadership | 🔐 Security | ⚙️ Automation | 📈 Scalability
+## Engineering focus
 
-I specialize in:
-- Architecting cloud-native systems on **GCP, AWS, and Azure**
-- Driving automation through **Infrastructure-as-Code**
-- Operationalizing **AI/ML pipelines** with Vertex AI, BigQuery & Cloud Run
-- Building secure CI/CD platforms with shift-left security tooling
+- **Cloud infrastructure:** Terraform-based infrastructure as code, repeatable environments, and practical cloud operations.
+- **Secure software delivery:** GitHub Actions, CI/CD modernization, and security and software-supply-chain controls in delivery workflows.
+- **Reliability and observability:** Monitoring, logging, operational troubleshooting, and maintainable services.
+- **Enterprise integrations:** Connecting cloud services and enterprise platforms with attention to access, delivery, and operational support.
+- **Developer enablement:** Reusable workflows, clear documentation, and engineering practices that make delivery easier to maintain.
 
+My AI-related work focuses on infrastructure supporting AI-enabled applications and governed engineering workflows.
 
----
+## Selected public work
 
-## 🚀 Proven Impact
+These repositories are personal learning and demonstration projects. They illustrate specific infrastructure patterns, not production-ready platforms or employer implementations.
 
-| Metric | Outcome |
-|--------|---------|
-| **📉 35% CI/CD Time Reduction** | Streamlined pipelines using GitHub Actions |
-| **⚡ 40% Faster Deployments** | Optimized delivery through advanced automation |
-| **💰 $225K Annual Savings** | Cut cloud costs via FinOps and workload tuning |
+| Project | Scope |
+| --- | --- |
+| [GCP Terraform web app](https://github.com/Saifalkayali/gcp-terraform-web-app) | Small Compute Engine and Terraform demo with a Node.js “Hello, World!” application, created for Copilot testing. |
+| [Static site on LKE](https://github.com/Saifalkayali/lke-saif-site) | Containerized static-site deployment demo for Linode Kubernetes Engine, paired with the Terraform learning project below. |
+| [Terraform and Kubernetes on Linode](https://github.com/Saifalkayali/terraform-k8s-linode) | Archived learning project covering LKE provisioning, remote-state configuration, and a static-site deployment walkthrough. Historical reference, not current deployment guidance. |
 
----
+## Connect
 
-## 🔧 Technical Highlights
-
-- **CI/CD Modernization** — Jenkins → GitHub Actions  
-- **DevSecOps Automation** — Prisma & XRay integration for shift-left scanning  
-- **AI/ML Operationalization** — Vertex AI, BigQuery, Cloud Run deployments  
-- **Cloud FinOps** — Realized significant savings on GCP infrastructure
-
----
-
-## 🛠️ Core Toolbox
-
-**Cloud & Infra:**  
-`GCP` `AWS` `Azure` `Terraform` `Kubernetes` `Docker` `Ansible` `CloudFormation` `Linux`
-
-**CI/CD & DevSecOps:**  
-`GitHub Actions` `Jenkins` `Maven` `Artifactory` `Prisma` `JFrog XRay` `Cloud Build` `Kustomize`
-
-**Programming Languages:**  
-`Python` `Java` `JavaScript` `Groovy` `Ruby` `Apex` `SQL`
-
-**Monitoring & Logging:**  
-`Datadog` `Dynatrace` `Splunk` `Sumo Logic` `NewRelic`
-
-**AI/ML & Data Services:**  
-`Vertex AI` `BigQuery` `Cloud Run` `Kafka` `Contact Center AI` `Cloud Storage` `RDS` `S3`
-
-**Collaboration & Workflow:**  
-`GitHub` `VS Code` `Copilot` `Jira` `Rally` `Slack` `MS Teams` `Confluence`
-
----
-
-## 🧪 Certifications
-
-- 🎓 **Google Cloud Certified — Cloud Digital Leader**
-
----
-
-## 📊 GitHub Stats
-
-![Saif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saifalkayali&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saifalkayali&layout=compact&theme=radical)
-
----
-
-## 📬 Let’s Connect
-
-- 🌐 [saifalkayali.com](https://saifalkayali.com)
-- 💼 [LinkedIn](https://linkedin.com/in/saif-alkayali)
-- 🐦 [X/Twitter @saif_alkayali](https://x.com/saif_alkayali)
----
-
-> _"Automate with clarity. Secure with purpose. Scale with confidence."_
+- [Website](https://saifalkayali.com)
+- [LinkedIn](https://www.linkedin.com/in/saif-alkayali)
+- [Resume](https://drive.google.com/drive/folders/1pmyJsERc_RFoA6JundomnmYL2k8fn1UF)
