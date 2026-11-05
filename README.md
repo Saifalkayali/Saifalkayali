@@ -2,7 +2,9 @@
 
 [Website](https://saifalkayali.com) · [LinkedIn](https://www.linkedin.com/in/saif-alkayali) · [Resume](https://drive.google.com/drive/folders/1pmyJsERc_RFoA6JundomnmYL2k8fn1UF) · [Public repositories](https://github.com/Saifalkayali?tab=repositories)
 
-## Engineering with clarity
+## Senior DevOps Engineer & Technical Lead
+
+Based in Minneapolis–St. Paul.
 
 I build cloud infrastructure and delivery platforms that help engineering teams ship securely and operate reliably. My strongest cloud platform is Google Cloud, with earlier AWS infrastructure and SRE experience and cross-cloud work involving Azure and SaaS integrations.
 
@@ -28,7 +30,7 @@ Alongside hands-on engineering, I provide technical leadership through architect
 - **Enterprise integrations:** Connecting cloud services and enterprise platforms with attention to access, delivery, and operational support.
 - **Developer enablement:** Reusable workflows, clear documentation, and engineering practices that make delivery easier to maintain.
 
-My AI-related work focuses on infrastructure supporting AI-enabled applications and governed engineering workflows.
+My AI-related work focuses on infrastructure supporting AI-enabled applications and bounded engineering workflows, with source-cited investigation, deterministic validation, and explicit human approval gates.
 
 ## Selected public work
 
@@ -46,27 +48,18 @@ Small Compute Engine and Terraform demo with a Node.js “Hello, World!” appli
 
 [![CONTAINERS / LKE: Container → LKE → Static site. PERSONAL DEMO.](assets/profile-v2/lke-site.svg)](https://github.com/Saifalkayali/lke-saif-site)
 
-Containerized static-site deployment demo for Linode Kubernetes Engine, paired with the Terraform learning project below.
+Containerized static-site deployment demo for Linode Kubernetes Engine. A personal learning example of packaging a static site in a container and running it on Kubernetes.
 
 [Explore repository →](https://github.com/Saifalkayali/lke-saif-site)
-
-### 03 · [Terraform and Kubernetes on Linode](https://github.com/Saifalkayali/terraform-k8s-linode)
-
-[![TERRAFORM / KUBERNETES: Terraform → Remote state → LKE. ARCHIVED LEARNING.](assets/profile-v2/linode-iac.svg)](https://github.com/Saifalkayali/terraform-k8s-linode)
-
-Archived learning project covering LKE provisioning, remote-state configuration, and a static-site deployment walkthrough. Historical reference, not current deployment guidance.
-
-[Explore repository →](https://github.com/Saifalkayali/terraform-k8s-linode)
 
 <details>
 <summary><b>⌘ Explore the demos locally</b></summary>
 
-Read each repository’s documentation before trying it. Cloud provisioning can incur charges; the archived Linode project is historical reference only.
+Read each repository’s documentation before trying it. These are personal learning demos; cloud provisioning can incur charges.
 
 ```bash
 git clone https://github.com/Saifalkayali/gcp-terraform-web-app.git
 git clone https://github.com/Saifalkayali/lke-saif-site.git
-git clone https://github.com/Saifalkayali/terraform-k8s-linode.git
 ```
 
 </details>
