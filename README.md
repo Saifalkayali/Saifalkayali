@@ -1,14 +1,14 @@
-![Saif Al-Kayali — Senior DevOps Engineer. Cloud infrastructure, secure delivery, reliable platforms.](assets/profile-v2/banner.svg)
+![Saif Al-Kayali — Senior Software Engineer — Cloud & Platform Engineering. Cloud infrastructure, secure delivery, reliable platforms.](assets/profile-v2/banner.svg)
 
 [Website](https://saifalkayali.com) · [LinkedIn](https://www.linkedin.com/in/saif-alkayali) · [Resume](https://drive.google.com/drive/folders/1pmyJsERc_RFoA6JundomnmYL2k8fn1UF) · [Public repositories](https://github.com/Saifalkayali?tab=repositories)
 
-## Senior DevOps Engineer & Technical Lead
+## Senior Software Engineer — Cloud & Platform Engineering
 
 Based in Minneapolis–St. Paul.
 
 I build cloud infrastructure and delivery platforms that help engineering teams ship securely and operate reliably. My strongest cloud platform is Google Cloud, with earlier AWS infrastructure and SRE experience and cross-cloud work involving Azure and SaaS integrations.
 
-Alongside hands-on engineering, I provide technical leadership through architecture decisions, delivery standards, and developer enablement.
+Alongside hands-on engineering, I provide technical leadership through architecture decisions, delivery standards, peer review, mentoring, and developer enablement.
 
 ### Core platforms & delivery
 
@@ -26,9 +26,9 @@ Alongside hands-on engineering, I provide technical leadership through architect
 
 - **Cloud infrastructure:** Terraform-based infrastructure as code, repeatable environments, and practical cloud operations.
 - **Secure software delivery:** GitHub Actions, CI/CD modernization, and security and software-supply-chain controls in delivery workflows.
-- **Reliability and observability:** Monitoring, logging, operational troubleshooting, and maintainable services.
+- **Reliability and observability:** Monitoring validation, operational troubleshooting, disaster-recovery readiness, and maintainable services.
 - **Enterprise integrations:** Connecting cloud services and enterprise platforms with attention to access, delivery, and operational support.
-- **Developer enablement:** Reusable workflows, clear documentation, and engineering practices that make delivery easier to maintain.
+- **Developer enablement:** Reusable workflows, rules-based intake automation, clear ownership, and documentation that help engineers work independently while preserving human review.
 
 My AI-related work focuses on infrastructure supporting AI-enabled applications and governed engineering workflows, with clear boundaries for automation and human oversight.
 
