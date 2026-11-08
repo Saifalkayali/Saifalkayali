@@ -1,8 +1,8 @@
-![Saif Al-Kayali — Senior Software Engineer — Cloud & Platform Engineering. Cloud infrastructure, secure delivery, reliable platforms.](assets/profile-v2/banner.svg)
+![Saif Al-Kayali — Senior Software Engineer | Cloud and AI Infrastructure. Cloud infrastructure, secure delivery, reliable platforms.](assets/profile-v2/banner.svg)
 
 [Website](https://saifalkayali.com) · [LinkedIn](https://www.linkedin.com/in/saif-alkayali) · [Resume](https://drive.google.com/drive/folders/1pmyJsERc_RFoA6JundomnmYL2k8fn1UF) · [Public repositories](https://github.com/Saifalkayali?tab=repositories)
 
-## Senior Software Engineer — Cloud & Platform Engineering
+## Senior Software Engineer | Cloud and AI Infrastructure
 
 Based in Minneapolis–St. Paul.
 
