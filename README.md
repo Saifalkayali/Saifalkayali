@@ -32,37 +32,11 @@ Alongside hands-on engineering, I provide technical leadership through architect
 
 My AI-related work focuses on infrastructure supporting AI-enabled applications and governed engineering workflows, with clear boundaries for automation and human oversight.
 
-## Selected public work
+## Project walkthroughs
 
-> **Personal learning & demonstration projects.** These illustrate specific infrastructure patterns, not production-ready platforms or employer implementations.
+Explore my [portfolio website](https://saifalkayali.com) for project walkthroughs.
 
-### 01 · [GCP Terraform web app scaffold](https://github.com/Saifalkayali/gcp-terraform-web-app)
-
-[![GCP / TERRAFORM: Terraform → Compute Engine → Node.js. PERSONAL DEMO.](assets/profile-v2/gcp-web-app.svg)](https://github.com/Saifalkayali/gcp-terraform-web-app)
-
-Terraform configuration for Compute Engine and a minimal Node.js “Hello, World!” server, created for Copilot testing. Application installation and startup on the VM are not implemented; this is an infrastructure scaffold, not a verified end-to-end deployment.
-
-[Explore repository →](https://github.com/Saifalkayali/gcp-terraform-web-app)
-
-### 02 · [Historical static-site example for LKE](https://github.com/Saifalkayali/lke-saif-site)
-
-[![CONTAINERS / LKE: Container → LKE → Static site. PERSONAL DEMO.](assets/profile-v2/lke-site.svg)](https://github.com/Saifalkayali/lke-saif-site)
-
-Historical learning example with a Hugo/NGINX Dockerfile and Kubernetes Deployment and LoadBalancer Service manifests for Linode Kubernetes Engine. Public setup instructions are incomplete and rely on a companion guide that is no longer publicly accessible. A current working deployment has not been verified.
-
-[Explore repository →](https://github.com/Saifalkayali/lke-saif-site)
-
-<details>
-<summary><b>⌘ Inspect the source locally</b></summary>
-
-Cloning retrieves the source only. The GCP app deployment and LKE public setup instructions are incomplete; review the implementation before attempting any cloud deployment. Cloud provisioning can incur charges.
-
-```bash
-git clone https://github.com/Saifalkayali/gcp-terraform-web-app.git
-git clone https://github.com/Saifalkayali/lke-saif-site.git
-```
-
-</details>
+**Personal learning & demonstration projects.** These illustrate specific infrastructure patterns, not production-ready platforms or employer implementations. Some source repositories are private; a public walkthrough does not grant repository access.
 
 ---
 
